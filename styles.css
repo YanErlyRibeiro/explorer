@@ -72,7 +72,8 @@ section div {
 }
 
 
-section h2 {
+
+(section h2 {
 letter-spacing: -0.47px;
 }
 
@@ -82,7 +83,7 @@ color: #A1A1AA;
 }
 
 section ul {
-    display: flex ;
+    display: flex;
     flex-wrap: wrap;
     gap: 16px;
 
