@@ -20,6 +20,7 @@ body * {
     line-height: 160%;
 }
 
+
 header {
     padding-top: 32px;
     height: calc(120px + 32px);
@@ -44,9 +45,7 @@ header div:hover{
 header div img {
     width: 100%;
     border-radius: 50%;
-    
 }
-
 
 main {
     max-width: 580px;
@@ -55,6 +54,7 @@ main {
 
     display: grid;
     gap: 24px;
+    
 }
 
 section {
@@ -72,8 +72,7 @@ section div {
 }
 
 
-
-(section h2 {
+section h2 {
 letter-spacing: -0.47px;
 }
 
